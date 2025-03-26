@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samiksha Sawant</h1>
-<h3 align="center">A Frontend developer from India</h3>
+<h3 align="center">A Software developer from India</h3>
 
-- 🌱 I’m currently learning **React NodeJS**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 🔭 I’m currently working on **courses**
+- 🔭 I’m currently working on **Projects**
 
 - 👯 I’m looking to collaborate on **various website development**
 
